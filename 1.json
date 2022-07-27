@@ -1,0 +1,15 @@
+{
+    "name": "In warranty",
+    "description": "The warranty is valid.",
+    "image" : "https://raw.githubusercontent.com/NabarunKar/dNFT-metadata/main/warranty-removebg-preview.png",
+    "attributes": [
+        {
+            "trait-type": "Stage",
+            "value": "0"
+        },
+        {
+            "trait-type": "Product",
+            "value": "UNKNOWN"
+        }
+    ]
+}
